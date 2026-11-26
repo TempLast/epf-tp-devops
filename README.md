@@ -1,5 +1,7 @@
 # TP - Bilan DevOps
 
+<img width="625" height="320" alt="devops_logo" src="https://github.com/user-attachments/assets/122f5b7a-bbcf-4eb4-8b18-4516d642aad0" />
+
 Mise en place de script d'automatisation pour la sauvegarde, monitoring et la rotation des logs.
 
 ## Script BASH - Monitoring Disque
