@@ -1,9 +1,9 @@
-# <img width="512" height="512" alt="devops_logo_1" src="https://github.com/user-attachments/assets/0a4adb20-8e01-4942-a88a-f3a6a2c767ac" /> TP - Bilan DevOps
+# TP - Bilan DevOps
 
-Mise en place de script d'automatisation pour la sauvegarde, monitoring et la rotation des logs.
+Mise en place de script d'automatisation pour la sauvegarde, monitoring et la rotation des logs avec différents languages.
 
 ## Script BASH - Monitoring Disque
-monitoring_disque.sh permet d'afficher l'espace disque, alerte si un seuil critique est atteint (80%), un log (alerte_disque.log) est aussi créé.
+**monitoring_disque.sh** permet d'afficher l'espace disque, alerte si un seuil critique est atteint (80%), un log (alerte_disque.log) est aussi créé.
 
 ### Exemple d'éxécution
 
@@ -25,4 +25,12 @@ Filesystem      Size  Used Avail Use% Mounted on
 cat /var/log/alerte_disque.log
 ```
 
+## Script PYTHON - Backup
+**backup.py** permet de sauvegarder un dossier spécifié vers un répertoire de sauvegarde, gestion des erreurs, et envoi d'un email.
 
+
+
+
+
+## Script BASH - Gestion Log
+**log_rotate.sh** permet de trier les logs d'un dossier donné, supprime les logs vieux de plus de X jours ou au-delà d'une certaine taille.
