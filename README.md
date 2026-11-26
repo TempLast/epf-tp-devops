@@ -2,9 +2,14 @@
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Monitoring%20%26%20Logs-FCC624?logo=linux&logoColor=black)
 ![DevOps](https://img.shields.io/badge/TP-DevOps%20Automation-0A66C2?logo=githubactions&logoColor=white)
+
 # TP - Bilan DevOps
 
 Mise en place de script d'automatisation pour la sauvegarde, monitoring et la rotation des logs avec différents languages.
+
+<p align="center">
+  <img width="600" height="320" alt="devops_logo" src="https://github.com/user-attachments/assets/debe2506-2dbe-4dc4-b8c1-7c5ae7b938cf" />
+</p>
 
 ## Script BASH - Monitoring Disque
 > **monitoring_disque.sh** permet d'afficher l'espace disque, alerte si un seuil critique est atteint (80%), un log (alerte_disque.log) est aussi créé.
