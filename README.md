@@ -25,7 +25,7 @@ Filesystem      Size  Used Avail Use% Mounted on
 cat /var/log/alerte_disque.log
 ```
 
-## Script PYTHON - Backup ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+## ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white) Script PYTHON - Backup 
 **backup.py** permet de sauvegarder un dossier spécifié vers un répertoire de sauvegarde, gestion des erreurs, et envoi d'un email.
 
 ### Exemple d'éxécution
