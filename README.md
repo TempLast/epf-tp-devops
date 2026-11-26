@@ -1,6 +1,4 @@
-# TP - Bilan DevOps
-
-<img width="625" height="320" alt="devops_logo" src="https://github.com/user-attachments/assets/122f5b7a-bbcf-4eb4-8b18-4516d642aad0" />
+# <img width="512" height="512" alt="devops_logo_1" src="https://github.com/user-attachments/assets/0a4adb20-8e01-4942-a88a-f3a6a2c767ac" /> TP - Bilan DevOps
 
 Mise en place de script d'automatisation pour la sauvegarde, monitoring et la rotation des logs.
 
