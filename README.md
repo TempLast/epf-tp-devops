@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 # TP - Bilan DevOps
 
 Mise en place de script d'automatisation pour la sauvegarde, monitoring et la rotation des logs avec différents languages.
@@ -25,7 +26,7 @@ Filesystem      Size  Used Avail Use% Mounted on
 cat /var/log/alerte_disque.log
 ```
 
-## ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white) Script PYTHON - Backup 
+## Script PYTHON - Backup 
 **backup.py** permet de sauvegarder un dossier spécifié vers un répertoire de sauvegarde, gestion des erreurs, et envoi d'un email.
 
 ### Exemple d'éxécution
