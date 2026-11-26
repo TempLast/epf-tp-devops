@@ -1,4 +1,7 @@
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-5.x-4EAA25?logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Monitoring%20%26%20Logs-FCC624?logo=linux&logoColor=black)
+![DevOps](https://img.shields.io/badge/TP-DevOps%20Automation-0A66C2?logo=githubactions&logoColor=white)
 # TP - Bilan DevOps
 
 Mise en place de script d'automatisation pour la sauvegarde, monitoring et la rotation des logs avec différents languages.
